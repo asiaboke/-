@@ -11,30 +11,19 @@ CCTV-6电影,http://mywlkj.ddns.net:754/tv/cctv6.m3u8
 CCTV-2财经,http://mywlkj.ddns.net:754/tv/cctv2.m3u8
 CCTV-1综合,http://mywlkj.ddns.net:754/tv/cctv1.m3u8
 
+TVB翡翠台,http://mywlkj.ddns.net:754/tv/hiper25.php?id=1
+TVB 明珠台,http://mywlkj.ddns.net:754/tv/hiper25.php?id=2
+澳视澳门,http://mywlkj.ddns.net:754/tv/hiper25.php?id=3
+广东珠江,http://mywlkj.ddns.net:754/tv/hiper25.php?id=4
+广东体育,http://mywlkj.ddns.net:754/tv/hiper25.php?id=5
+广东民生,http://mywlkj.ddns.net:754/tv/hiper25.php?id=6
+广东经济科教,http://mywlkj.ddns.net:754/tv/hiper25.php?id=7
+大湾区卫视,http://mywlkj.ddns.net:754/tv/hiper25.php?id=8
+
 凤凰中文,http://mywlkj.ddns.net:754/tv/fhzw.m3u8
 凤凰资讯,http://mywlkj.ddns.net:754/tv/fhzx.m3u8
 星光视界,http://mywlkj.ddns.net:754/tv/yximgs.php?id=69
 翡翠台HD,http://mywlkj.ddns.net:754/tv/hk.php?id=9
-
-翡翠台HD,http://119.34.189.27:33333/udp/224.1.100.121:11111
-凤凰卫视,http://119.34.189.27:33333/udp/224.1.100.3:11111
-翡翠台,http://119.34.189.27:33333/udp/224.1.100.1:11111
-明珠台HD,http://119.34.189.27:33333/udp/224.1.100.123:11111
-明珠台,http://119.34.189.27:33333/udp/224.1.100.2:11111
-星空卫视,http://119.34.189.27:33333/udp/224.1.100.13:11111
-广东珠江,http://119.34.189.27:33333/udp/224.1.100.23:11111
-广东新闻,http://119.34.189.27:33333/udp/224.1.100.5:11111
-大湾区卫视,http://119.34.189.27:33333/udp/224.1.100.7:11111
-广东体育,http://119.34.189.27:33333/udp/224.1.100.34:11111
-广东影视,http://119.34.189.27:33333/udp/224.1.100.11:11111
-广东少儿,http://119.34.189.27:33333/udp/224.1.100.9:11111
-广东民生,http://119.34.189.27:33333/udp/224.1.100.4:11111
-广东经济科教,http://119.34.189.27:33333/udp/224.1.100.6:11111
-广州台,http://119.34.189.27:33333/udp/224.1.100.36:11111
-广州新闻,http://119.34.189.27:33333/udp/224.1.100.38:11111
-广州影视,http://119.34.189.27:33333/udp/224.1.100.88:11111
-广州法治HD,http://119.34.189.27:33333/udp/224.1.100.17:11111
-广州法治,http://119.34.189.27:33333/udp/224.1.100.18:11111
 
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 安徽卫视,http://live.ahsx.ahtv.cn/live/ahtv.m3u8?txSecret=a069b18fac6cd605568d3733d24e5613&txTime=6955487F
@@ -57,169 +46,247 @@ CCTV-1综合,http://mywlkj.ddns.net:754/tv/cctv1.m3u8
 
 🔥港澳台区👉秒开,#genre#
 
-J2,http://mywlkj.ddns.net:754/tv/yximgs.php?id=1
-翡翠台,http://mywlkj.ddns.net:754/tv/yximgs.php?id=2
-TVB无线新闻,http://mywlkj.ddns.net:754/tv/yximgs.php?id=3
+翡翠台HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=1
+无线新闻台,http://mywlkj.ddns.net:754/tv/tw6.php?id=2
+无线新闻台HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=3
+J2,http://mywlkj.ddns.net:754/tv/tw6.php?id=4
+J2,http://mywlkj.ddns.net:754/tv/tw6.php?id=5
+TVB明珠台,http://mywlkj.ddns.net:754/tv/tw6.php?id=6
+TVB财经体育资讯台,http://mywlkj.ddns.net:754/tv/tw6.php?id=7
+MYTV SUPER1,http://mywlkj.ddns.net:754/tv/tw6.php?id=8
+翡翠台,http://mywlkj.ddns.net:754/tv/tw6.php?id=9
+MYTV SUPER2,http://mywlkj.ddns.net:754/tv/tw6.php?id=10
+MYTV SUPER3,http://mywlkj.ddns.net:754/tv/tw6.php?id=11
+功夫台,http://mywlkj.ddns.net:754/tv/tw6.php?id=12
+MYTV SUPER4,http://mywlkj.ddns.net:754/tv/tw6.php?id=13
+MYTV SUPER5,http://mywlkj.ddns.net:754/tv/tw6.php?id=14
+MYTV SUPER6,http://mywlkj.ddns.net:754/tv/tw6.php?id=15
+18台,http://mywlkj.ddns.net:754/tv/tw6.php?id=16
+MYTV SUPER7,http://mywlkj.ddns.net:754/tv/tw6.php?id=17
+MYTV SUPER8,http://mywlkj.ddns.net:754/tv/tw6.php?id=18
+TVB欢乐新闻台,http://mywlkj.ddns.net:754/tv/tw6.php?id=19
+TVB星河,http://mywlkj.ddns.net:754/tv/tw6.php?id=20
+MYTV SUPER9,http://mywlkj.ddns.net:754/tv/tw6.php?id=21
+VIUTV,http://mywlkj.ddns.net:754/tv/tw6.php?id=22
+黄金华剧台,http://mywlkj.ddns.net:754/tv/tw6.php?id=23
+美亚电影台,http://mywlkj.ddns.net:754/tv/tw6.php?id=24
+美亚电影台,http://mywlkj.ddns.net:754/tv/tw6.php?id=25
+NOW新闻台,http://mywlkj.ddns.net:754/tv/tw6.php?id=26
+NOW财经台,http://mywlkj.ddns.net:754/tv/tw6.php?id=27
+NOW星影台,http://mywlkj.ddns.net:754/tv/tw6.php?id=28
+NOW爆谷台,http://mywlkj.ddns.net:754/tv/tw6.php?id=29
+NOW SPORTS1,http://mywlkj.ddns.net:754/tv/tw6.php?id=30
+ROCK EN,http://mywlkj.ddns.net:754/tv/tw6.php?id=31
+ROCK ACTION,http://mywlkj.ddns.net:754/tv/tw6.php?id=32
+KIX,http://mywlkj.ddns.net:754/tv/tw6.php?id=33
+AXN,http://mywlkj.ddns.net:754/tv/tw6.php?id=34
+fashion box hd,http://mywlkj.ddns.net:754/tv/tw6.php?id=35
+thrill,http://mywlkj.ddns.net:754/tv/tw6.php?id=36
+TVB翡翠台HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=37
+ANIMAX,http://mywlkj.ddns.net:754/tv/tw6.php?id=38
+LOVE NATURE,http://mywlkj.ddns.net:754/tv/tw6.php?id=39
+TVN,http://mywlkj.ddns.net:754/tv/tw6.php?id=40
+LOVE NATURE,http://mywlkj.ddns.net:754/tv/tw6.php?id=41
+民视HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=42
+台视HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=43
+中视HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=44
+华视HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=45
+公视,http://mywlkj.ddns.net:754/tv/tw6.php?id=46
+台视综合HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=47
+民视台湾台HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=48
+三立综合台,http://mywlkj.ddns.net:754/tv/tw6.php?id=49
+三立台湾台,http://mywlkj.ddns.net:754/tv/tw6.php?id=50
+三立都会台,http://mywlkj.ddns.net:754/tv/tw6.php?id=51
+GTV八大综合台HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=52
+ELTA综合HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=53
+中天亚洲台,http://mywlkj.ddns.net:754/tv/tw6.php?id=54
+中天综合HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=55
+中天娱乐HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=56
+EYETV旅游,http://mywlkj.ddns.net:754/tv/tw6.php?id=57
+EYETV剧场,http://mywlkj.ddns.net:754/tv/tw6.php?id=58
+CN卡通频道,http://mywlkj.ddns.net:754/tv/tw6.php?id=59
+EBC东森超视HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=60
+美食星球,http://mywlkj.ddns.net:754/tv/tw6.php?id=61
+亚洲旅游台,http://mywlkj.ddns.net:754/tv/tw6.php?id=62
+ELTA体育4台,http://mywlkj.ddns.net:754/tv/tw6.php?id=63
+WORLD,http://mywlkj.ddns.net:754/tv/tw6.php?id=64
+EBC东森新闻HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=65
+寰宇新闻HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=66
+TVBS新闻HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=67
+TVBS新闻HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=68
+三立新闻HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=69
+中视新闻HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=70
+台视新闻HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=71
+中天新闻2,http://mywlkj.ddns.net:754/tv/tw6.php?id=72
+中天新闻2,http://mywlkj.ddns.net:754/tv/tw6.php?id=73
+民视新闻台HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=74
+LS龙祥时代,http://mywlkj.ddns.net:754/tv/tw6.php?id=75
+EBC东森电影HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=76
+EBC东森洋片HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=77
+好莱坞HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=78
+纬来电影HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=79
+LTV龙华戏剧,http://mywlkj.ddns.net:754/tv/tw6.php?id=80
+LTV龙华偶像,http://mywlkj.ddns.net:754/tv/tw6.php?id=81
+LTV龙华洋片,http://mywlkj.ddns.net:754/tv/tw6.php?id=82
+LTV龙华电影,http://mywlkj.ddns.net:754/tv/tw6.php?id=83
+美亚电影台,http://mywlkj.ddns.net:754/tv/tw6.php?id=84
+HBO HITS,http://mywlkj.ddns.net:754/tv/tw6.php?id=85
+HBO FAMILY,http://mywlkj.ddns.net:754/tv/tw6.php?id=86
+CINEMAX,http://mywlkj.ddns.net:754/tv/tw6.php?id=87
+AXN,http://mywlkj.ddns.net:754/tv/tw6.php?id=88
+WB TV,http://mywlkj.ddns.net:754/tv/tw6.php?id=89
+STAR MOVIES HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=90
+CCM,http://mywlkj.ddns.net:754/tv/tw6.php?id=91
+天映频道,http://mywlkj.ddns.net:754/tv/tw6.php?id=92
+ABC NEWS LIVE,http://mywlkj.ddns.net:754/tv/tw6.php?id=93
+CNN,http://mywlkj.ddns.net:754/tv/tw6.php?id=94
+动物星球,http://mywlkj.ddns.net:754/tv/tw6.php?id=95
+OUTDOOR,http://mywlkj.ddns.net:754/tv/tw6.php?id=96
+WILD HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=97
+BBC EARTH,http://mywlkj.ddns.net:754/tv/tw6.php?id=98
+BBC LIFE,http://mywlkj.ddns.net:754/tv/tw6.php?id=99
+BHO,http://mywlkj.ddns.net:754/tv/tw6.php?id=100
+astro欢喜台,http://mywlkj.ddns.net:754/tv/tw6.php?id=101
+TVB magic,http://mywlkj.ddns.net:754/tv/tw6.php?id=102
+TVB千禧经典台,http://mywlkj.ddns.net:754/tv/tw6.php?id=103
+IQIYI,http://mywlkj.ddns.net:754/tv/tw6.php?id=104
+W,http://mywlkj.ddns.net:754/tv/tw6.php?id=105
+ELTA体育3台,http://mywlkj.ddns.net:754/tv/tw6.php?id=106
+凤凰中文台HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=107
+凤凰资讯台HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=108
+凤凰香港台HD,http://mywlkj.ddns.net:754/tv/tw6.php?id=109
+TVB星河,http://mywlkj.ddns.net:754/tv/tw6.php?id=110
+NOW,http://mywlkj.ddns.net:754/tv/tw6.php?id=111
 
-华丽翡翠台,http://mywlkj.ddns.net:754/tv/yximgs.php?id=5
-TVB星河国语,http://mywlkj.ddns.net:754/tv/yximgs.php?id=6
-天映频道,http://mywlkj.ddns.net:754/tv/yximgs.php?id=7
-天映经典,http://mywlkj.ddns.net:754/tv/yximgs.php?id=8
-VIUTV,http://mywlkj.ddns.net:754/tv/yximgs.php?id=9
-VIUTV6,http://mywlkj.ddns.net:754/tv/yximgs.php?id=10
-RHK31,http://mywlkj.ddns.net:754/tv/yximgs.php?id=11
-RHK32,http://mywlkj.ddns.net:754/tv/yximgs.php?id=12
-AXN,http://mywlkj.ddns.net:754/tv/yximgs.php?id=13
-CINEMAX,http://mywlkj.ddns.net:754/tv/yximgs.php?id=14
-TVNMOVIE,http://mywlkj.ddns.net:754/tv/yximgs.php?id=15
-民视,http://mywlkj.ddns.net:754/tv/yximgs.php?id=16
-台视,http://mywlkj.ddns.net:754/tv/yximgs.php?id=17
-中视,http://mywlkj.ddns.net:754/tv/yximgs.php?id=18
-华视,http://mywlkj.ddns.net:754/tv/yximgs.php?id=19
-TVBS,http://mywlkj.ddns.net:754/tv/yximgs.php?id=20
-TVBSHD,http://mywlkj.ddns.net:754/tv/yximgs.php?id=21
-台视综合,http://mywlkj.ddns.net:754/tv/yximgs.php?id=22
-民视台湾台,http://mywlkj.ddns.net:754/tv/yximgs.php?id=23
-三立综合台,http://mywlkj.ddns.net:754/tv/yximgs.php?id=24
-三立台湾台,http://mywlkj.ddns.net:754/tv/yximgs.php?id=25
-三立戏剧台,http://mywlkj.ddns.net:754/tv/yximgs.php?id=26
-三立都会台,http://mywlkj.ddns.net:754/tv/yximgs.php?id=27
-八大综合台,http://mywlkj.ddns.net:754/tv/yximgs.php?id=28
-八大第一台,http://mywlkj.ddns.net:754/tv/yximgs.php?id=29
-八大戏剧台,http://mywlkj.ddns.net:754/tv/yximgs.php?id=30
-爱尔达综合台,http://mywlkj.ddns.net:754/tv/yximgs.php?id=31
-爱尔达影剧,http://mywlkj.ddns.net:754/tv/yximgs.php?id=32
-中天亚洲台,http://mywlkj.ddns.net:754/tv/yximgs.php?id=33
-中天综合台,http://mywlkj.ddns.net:754/tv/yximgs.php?id=34
-中天娱乐台,http://mywlkj.ddns.net:754/tv/yximgs.php?id=35
-TVBS欢乐台,http://mywlkj.ddns.net:754/tv/yximgs.php?id=36
-龙祥时代,http://mywlkj.ddns.net:754/tv/yximgs.php?id=37
-东森电影,http://mywlkj.ddns.net:754/tv/yximgs.php?id=38
-东森洋片,http://mywlkj.ddns.net:754/tv/yximgs.php?id=39
-东森综合,http://mywlkj.ddns.net:754/tv/yximgs.php?id=40
-东森戏剧,http://mywlkj.ddns.net:754/tv/yximgs.php?id=41
-东森超视,http://mywlkj.ddns.net:754/tv/yximgs.php?id=42
-好莱坞电影,http://mywlkj.ddns.net:754/tv/yximgs.php?id=43
-纬来电影,http://mywlkj.ddns.net:754/tv/yximgs.php?id=44
-卫视洋片,http://mywlkj.ddns.net:754/tv/yximgs.php?id=45
-龙华戏剧,http://mywlkj.ddns.net:754/tv/yximgs.php?id=46
-龙华偶像,http://mywlkj.ddns.net:754/tv/yximgs.php?id=47
-龙华洋片,http://mywlkj.ddns.net:754/tv/yximgs.php?id=48
-龙华电影,http://mywlkj.ddns.net:754/tv/yximgs.php?id=49
-TVBS新闻,http://mywlkj.ddns.net:754/tv/yximgs.php?id=50
-中天新闻,http://mywlkj.ddns.net:754/tv/yximgs.php?id=51
-台视新闻,http://mywlkj.ddns.net:754/tv/yximgs.php?id=52
-中视新闻,http://mywlkj.ddns.net:754/tv/yximgs.php?id=53
-民视新闻,http://mywlkj.ddns.net:754/tv/yximgs.php?id=54
-东森新闻,http://mywlkj.ddns.net:754/tv/yximgs.php?id=55
-东森财经,http://mywlkj.ddns.net:754/tv/yximgs.php?id=56
-寰宇新闻,http://mywlkj.ddns.net:754/tv/yximgs.php?id=57
-非凡新闻,http://mywlkj.ddns.net:754/tv/yximgs.php?id=58
-年代新闻,http://mywlkj.ddns.net:754/tv/yximgs.php?id=59
+🔥小水管区👉四套,#genre#
 
-HBO_HD,http://mywlkj.ddns.net:754/tv/haiou.php?id=1
-HBO_HITS,http://mywlkj.ddns.net:754/tv/haiou.php?id=2
-HBOSignatureHD,http://mywlkj.ddns.net:754/tv/haiou.php?id=3
-HBO温馨家庭,http://mywlkj.ddns.net:754/tv/haiou.php?id=4
-华纳电影台,http://mywlkj.ddns.net:754/tv/haiou.php?id=5
-惊辣Thrill,http://mywlkj.ddns.net:754/tv/haiou.php?id=6
-8度空间HD,http://mywlkj.ddns.net:754/tv/haiou.php?id=7
-欢喜台HD,http://mywlkj.ddns.net:754/tv/haiou.php?id=8
-全佳台HD,http://mywlkj.ddns.net:754/tv/haiou.php?id=9
-爱奇艺HD,http://mywlkj.ddns.net:754/tv/haiou.php?id=10
-凤凰香港台,http://mywlkj.ddns.net:754/tv/haiou.php?id=11
-凤凰中文台,http://mywlkj.ddns.net:754/tv/haiou.php?id=12
-凤凰资讯台,http://mywlkj.ddns.net:754/tv/haiou.php?id=13
-TVB翡翠台,http://mywlkj.ddns.net:754/tv/haiou.php?id=14
-TVBJ2台,http://mywlkj.ddns.net:754/tv/haiou.php?id=15
-TVB明珠台,http://mywlkj.ddns.net:754/tv/haiou.php?id=16
-TVB华丽翡翠台,http://mywlkj.ddns.net:754/tv/haiou.php?id=17
-TVB星河台(粤),http://mywlkj.ddns.net:754/tv/haiou.php?id=18
-TVB星河台(国),http://mywlkj.ddns.net:754/tv/haiou.php?id=19
-TVB星河台(粤),http://mywlkj.ddns.net:754/tv/haiou.php?id=20
-港台RHK31,http://mywlkj.ddns.net:754/tv/haiou.php?id=21
-港台RHK32,http://mywlkj.ddns.net:754/tv/haiou.php?id=22
-VIU TV,http://mywlkj.ddns.net:754/tv/haiou.php?id=23
-VIU TV6,http://mywlkj.ddns.net:754/tv/haiou.php?id=24
-TVB无线新闻台,http://mywlkj.ddns.net:754/tv/haiou.php?id=25
-TVB财经体育资讯2台,http://mywlkj.ddns.net:754/tv/haiou.php?id=26
-美亚电影台,http://mywlkj.ddns.net:754/tv/haiou.php?id=27
-天映经典,http://mywlkj.ddns.net:754/tv/haiou.php?id=28
-天映频道,http://mywlkj.ddns.net:754/tv/haiou.php?id=29
-CINEMAX,http://mywlkj.ddns.net:754/tv/haiou.php?id=30
-AXN,http://mywlkj.ddns.net:754/tv/haiou.php?id=31
-tvNMovie,http://mywlkj.ddns.net:754/tv/haiou.php?id=32
+猪哥会社,http://mywlkj.ddns.net:754/tv/tw2.php?id=1
+万秀猪王,http://mywlkj.ddns.net:754/tv/tw2.php?id=2
+东森新闻,http://mywlkj.ddns.net:754/tv/tw2.php?id=3
+公视新闻,http://mywlkj.ddns.net:754/tv/tw2.php?id=4
+华视新闻,http://mywlkj.ddns.net:754/tv/tw2.php?id=5
+寰宇新闻,http://mywlkj.ddns.net:754/tv/tw2.php?id=6
+寰宇新闻台湾,http://mywlkj.ddns.net:754/tv/tw2.php?id=7
+镜新闻,http://mywlkj.ddns.net:754/tv/tw2.php?id=8
+民视新闻,http://mywlkj.ddns.net:754/tv/tw2.php?id=9
+三立海外,http://mywlkj.ddns.net:754/tv/tw2.php?id=10
+三立海外+,http://mywlkj.ddns.net:754/tv/tw2.php?id=11
+台视新闻,http://mywlkj.ddns.net:754/tv/tw2.php?id=12
+TVBS,http://mywlkj.ddns.net:754/tv/tw2.php?id=13
+中视新闻,http://mywlkj.ddns.net:754/tv/tw2.php?id=14
+中天新闻,http://mywlkj.ddns.net:754/tv/tw2.php?id=15
+中天新闻2,http://mywlkj.ddns.net:754/tv/tw2.php?id=16
+中天亜州,http://mywlkj.ddns.net:754/tv/tw2.php?id=17
+
+
+
+TRTWORLD,http://mywlkj.ddns.net:754/tv/tw3.php?id=1
+WORLD,http://mywlkj.ddns.net:754/tv/tw3.php?id=2
+TVBS NEWS,http://mywlkj.ddns.net:754/tv/tw3.php?id=3
+GTV 八大戏剧HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=4
+卡通,http://mywlkj.ddns.net:754/tv/tw3.php?id=5
+三立戏剧台,http://mywlkj.ddns.net:754/tv/tw3.php?id=6
+AMC电影台,http://mywlkj.ddns.net:754/tv/tw3.php?id=7
+凤凰资讯台,http://mywlkj.ddns.net:754/tv/tw3.php?id=8
+纬来精彩HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=9
+点歌台,http://mywlkj.ddns.net:754/tv/tw3.php?id=10
+亚洲记录,http://mywlkj.ddns.net:754/tv/tw3.php?id=11
+NHK WORLD,http://mywlkj.ddns.net:754/tv/tw3.php?id=12
+GTV八大第1台HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=13
+GTV八大综合台HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=14
+动物星球,http://mywlkj.ddns.net:754/tv/tw3.php?id=15
+音乐欣赏,http://mywlkj.ddns.net:754/tv/tw3.php?id=16
+
+(1线)j5,http://mywlkj.ddns.net:754/tv/tw.php?id=19
+(1线)广电翡翠,http://mywlkj.ddns.net:754/tv/tw.php?id=20
+(1线)广电翡翠2,http://mywlkj.ddns.net:754/tv/tw.php?id=21
+(1线)明珠,http://mywlkj.ddns.net:754/tv/tw.php?id=22
+(1线)viu6,http://mywlkj.ddns.net:754/tv/tw.php?id=23
+(1线)无线新闻,http://mywlkj.ddns.net:754/tv/tw.php?id=24
+(1线)凤凰中文,http://mywlkj.ddns.net:754/tv/tw.php?id=25
+(1线)凤凰香港,http://mywlkj.ddns.net:754/tv/tw.php?id=26
+(1线)凤凰咨询,http://mywlkj.ddns.net:754/tv/tw.php?id=27
+(1线)功夫台,http://mywlkj.ddns.net:754/tv/tw.php?id=28
+(1线)娱乐新闻,http://mywlkj.ddns.net:754/tv/tw.php?id=29
+(1线)星河,http://mywlkj.ddns.net:754/tv/tw.php?id=30
+(3线)hoy77,http://mywlkj.ddns.net:754/tv/tw.php?id=31
+(3线)hoy78,http://mywlkj.ddns.net:754/tv/tw.php?id=32
+(3线)j5,http://mywlkj.ddns.net:754/tv/tw.php?id=33
+(3线)翡翠,http://mywlkj.ddns.net:754/tv/tw.php?id=34
+(3线)广电翡翠,http://mywlkj.ddns.net:754/tv/tw.php?id=35
+(3线)明珠,http://mywlkj.ddns.net:754/tv/tw.php?id=36
+(3线)viu6,http://mywlkj.ddns.net:754/tv/tw.php?id=37
+(3线)无线新闻,http://mywlkj.ddns.net:754/tv/tw.php?id=38
+(3线)凤凰中文,http://mywlkj.ddns.net:754/tv/tw.php?id=39
+(3线)凤凰香港,http://mywlkj.ddns.net:754/tv/tw.php?id=40
+(3线)凤凰咨询,http://mywlkj.ddns.net:754/tv/tw.php?id=41
+(3线)功夫台,http://mywlkj.ddns.net:754/tv/tw.php?id=42
+(3线)娱乐新闻,http://mywlkj.ddns.net:754/tv/tw.php?id=43
+(3线)星河,http://mywlkj.ddns.net:754/tv/tw.php?id=44
+(3线)华视新闻,http://mywlkj.ddns.net:754/tv/tw.php?id=45
+(3线)中视,http://mywlkj.ddns.net:754/tv/tw.php?id=46
 
 🔥央视频区👉流畅,#genre#
 
-CCTV1,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cctv1
-CCTV2,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cctv2
-CCTV3,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cctv3
-CCTV4,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cctv4
-CCTV5,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cctv5
-CCTV5+,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cctv5p
-CCTV6,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cctv6hd
-CCTV7,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cctv7
-CCTV8,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cctv8
-CCTV9,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cctv9
-CCTV10,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cctv10
-CCTV11,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cctv11
-CCTV12,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cctv12
-CCTV13,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cctv13
-CCTV14,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cctv14
-CCTV15,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cctv15
-CCTV16,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cctv16
-CCTV16,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cctv16-4k
-CCTV17,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cctv17
-CCTV-4K,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cctv4k
-CCTV-8K,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cctv8k
+CCTV1,http://mywlkj.ddns.net:754/tv/ysp.php?id=1
+CCTV2,http://mywlkj.ddns.net:754/tv/ysp.php?id=2
+CCTV3,http://mywlkj.ddns.net:754/tv/ysp.php?id=3
+CCTV4,http://mywlkj.ddns.net:754/tv/ysp.php?id=4
+CCTV5,http://mywlkj.ddns.net:754/tv/ysp.php?id=5
+CCTV5+,http://mywlkj.ddns.net:754/tv/ysp.php?id=6
+CCTV6,http://mywlkj.ddns.net:754/tv/ysp.php?id=7
+CCTV7,http://mywlkj.ddns.net:754/tv/ysp.php?id=8
+CCTV8,http://mywlkj.ddns.net:754/tv/ysp.php?id=9
+CCTV9,http://mywlkj.ddns.net:754/tv/ysp.php?id=10
+CCTV10,http://mywlkj.ddns.net:754/tv/ysp.php?id=11
+CCTV11,http://mywlkj.ddns.net:754/tv/ysp.php?id=12
+CCTV12,http://mywlkj.ddns.net:754/tv/ysp.php?id=13
+CCTV13,http://mywlkj.ddns.net:754/tv/ysp.php?id=14
+CCTV14,http://mywlkj.ddns.net:754/tv/ysp.php?id=15
+CCTV15,http://mywlkj.ddns.net:754/tv/ysp.php?id=16
+CCTV16,http://mywlkj.ddns.net:754/tv/ysp.php?id=17
+CCTV17,http://mywlkj.ddns.net:754/tv/ysp.php?id=18
+CCTV-4K,http://mywlkj.ddns.net:754/tv/ysp.php?id=19
+CCTV-8K,http://mywlkj.ddns.net:754/tv/ysp.php?id=20
 
-CGTN,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cgtn
-CGTN记录,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cgtnjl
-CGTN西语,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cgtne
-CGTN法语,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cgtnf
-CGTN阿拉伯语,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cgtna
-CGTN俄语,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cgtnr
+北京卫视,http://mywlkj.ddns.net:754/tv/ysp.php?id=34
+辽宁卫视,http://mywlkj.ddns.net:754/tv/ysp.php?id=35
+河南卫视,http://mywlkj.ddns.net:754/tv/ysp.php?id=36
+湖南卫视,http://mywlkj.ddns.net:754/tv/ysp.php?id=37
+浙江卫视,http://mywlkj.ddns.net:754/tv/ysp.php?id=38
+广东卫视,http://mywlkj.ddns.net:754/tv/ysp.php?id=39
+新疆卫视,http://mywlkj.ddns.net:754/tv/ysp.php?id=40
+海南卫视,http://mywlkj.ddns.net:754/tv/ysp.php?id=41
+黑龙江卫视,http://mywlkj.ddns.net:754/tv/ysp.php?id=42
+山东卫视,http://mywlkj.ddns.net:754/tv/ysp.php?id=43
+广西卫视,http://mywlkj.ddns.net:754/tv/ysp.php?id=44
+江西卫视,http://mywlkj.ddns.net:754/tv/ysp.php?id=45
+东方卫视,http://mywlkj.ddns.net:754/tv/ysp.php?id=46
+重庆卫视,http://mywlkj.ddns.net:754/tv/ysp.php?id=47
+深圳卫视,http://mywlkj.ddns.net:754/tv/ysp.php?id=48
+贵州卫视,http://mywlkj.ddns.net:754/tv/ysp.php?id=49
+湖北卫视,http://mywlkj.ddns.net:754/tv/ysp.php?id=50
+天津卫视,http://mywlkj.ddns.net:754/tv/ysp.php?id=51
+安徽卫视,http://mywlkj.ddns.net:754/tv/ysp.php?id=52
+河北卫视,http://mywlkj.ddns.net:754/tv/ysp.php?id=53
+江苏卫视,http://mywlkj.ddns.net:754/tv/ysp.php?id=54
+东南卫视,http://mywlkj.ddns.net:754/tv/ysp.php?id=55
+四川卫视,http://mywlkj.ddns.net:754/tv/ysp.php?id=56
+兵团卫视,http://mywlkj.ddns.net:754/tv/ysp.php?id=57
 
-北京卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=bjws
-东方卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=dfws
-天津卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=tjws
-重庆卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cqws
-黑龙江卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=hljws
-辽宁卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=lnws
-河北卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=hbws
-山东卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=sdws
-安徽卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=ahws
-河南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=hnws
-湖北卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=hubws
-湖南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=hunws
-江西卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=jxws
-江苏卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=jsws
-浙江卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=zjws
-东南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=dnws
-广东卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=gdws
-深圳卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=szws
-广西卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=gxws
-贵州卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=gzws
-四川卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=scws
-新疆卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=xjws
-海南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=hinws
-兵团卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=btws
-
-
-CCTV兵器科技,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=bqkj
-CCTV第一剧场,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=dyjc
-CCTV怀旧剧场,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=hjjc
-CCTV风云剧场,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=fyjc
-CCTV风云音乐,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=fyyy
-CCTV风云足球,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=fyzq
-CCTV电视指南,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=dszn
-CCTV女性时尚,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=nxss
-CCTV文化精品,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=whjp
-CCTV世界地理,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=sjdl
-CCTV高尔夫网球,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=gefwq
-CCTV央视台球,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=ystq
-CCTV卫生健康,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=wsjk
+CCTV兵器科技,http://mywlkj.ddns.net:754/tv/ysp.php?id=21
+CCTV央视台球,http://mywlkj.ddns.net:754/tv/ysp.php?id=22
+CCTV高尔夫网球,http://mywlkj.ddns.net:754/tv/ysp.php?id=23
+CCTV世界地理,http://mywlkj.ddns.net:754/tv/ysp.php?id=24
+CCTV卫生健康,http://mywlkj.ddns.net:754/tv/ysp.php?id=25
+CCTV文化精品,http://mywlkj.ddns.net:754/tv/ysp.php?id=26
+CCTV第一剧场,http://mywlkj.ddns.net:754/tv/ysp.php?id=27
+CCTV风云足球,http://mywlkj.ddns.net:754/tv/ysp.php?id=28
+CCTV怀旧剧场,http://mywlkj.ddns.net:754/tv/ysp.php?id=29
+CCTV风云剧场,http://mywlkj.ddns.net:754/tv/ysp.php?id=30
+CCTV风云音乐,http://mywlkj.ddns.net:754/tv/ysp.php?id=31
+CCTV电视指南,http://mywlkj.ddns.net:754/tv/ysp.php?id=32
+CCTV女性时尚,http://mywlkj.ddns.net:754/tv/ysp.php?id=33
 
 
 🐼央视卫视👉移动,#genre#
@@ -1090,6 +1157,10 @@ CCTV15-音乐,http://124.128.73.58:9901/tsfile/live/0015_1.m3u8?key=tvbox6_com&p
 凤凰中文,http://113.64.145.9:8081/hls/37/index.m3u8?key=tvbox6_com
 凤凰香港,http://113.64.145.9:8081/hls/38/index.m3u8?key=tvbox6_com
 
+凤凰电影,http://123.182.42.136:4321/rtp/239.254.201.1:5214
+凤凰中文,http://123.182.42.136:4321/rtp/239.254.201.2:5226
+凤凰资讯,http://123.182.42.136:4321/rtp/239.254.201.3:5227
+
 TVB亚洲武侠,http://mywlkj.ddns.net:754/tv/hk.php?id=29
 TVB星河,http://mywlkj.ddns.net:754/tv/hk.php?id=30
 环球电视台,http://mywlkj.ddns.net:754/tv/hk.php?id=31
@@ -1359,6 +1430,15 @@ TVB星河,http://180.167.104.105:9901/tsfile/live/1004_1.m3u8?key=tvbox6_com&pla
 
 莲花卫视「酒店」,http://lhq-cctv.8866.org:18181/tsfile/live/1212_1.m3u8
 莲花卫视「代理」,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php
+
+中视,rtmp://220.130.201.73/sat/tv091
+华视,rtmp://220.130.201.73/sat/tv111
+台视,rtmp://220.130.201.73/sat/tv071
+民视,rtmp://220.130.201.73/sat/tv051
+纬来体育,rtmp://220.130.201.73/sat/tv721
+纬来育乐,rtmp://220.130.201.73/sat/tv701
+纬来日本,rtmp://220.130.201.73/sat/tv771
+东森超视,rtmp://220.130.201.73/sat/tv331
 
 
 民视,rtmp://f13h.mine.nu/sat/tv051
@@ -3005,6 +3085,35 @@ CHC家庭影院https://iptv.luas.edu.cn/liverespath/449d51febadb152094085d373b9a
 少年包青天1,https://live.metshop.top/yy/38498680
 津门飞鹰,https://live.metshop.top/yy/1354143942
 国内战争电影,https://live.metshop.top/yy/1382736865
+欢乐颂,https://live.metshop.top/yy/1382735624
+知否知否应是绿肥红瘦,https://live.metshop.top/yy/21881901
+仙剑奇侠传,https://live.metshop.top/yy/1382749903
+倚天屠龙记,https://live.metshop.top/yy/1449856066
+天龙八部,https://live.metshop.top/yy/1351814644
+笑傲江湖,https://live.metshop.top/yy/1354936128
+鹿鼎记,https://live.metshop.top/yy/28265277
+寻秦记,https://live.metshop.top/yy/1382749900
+封神榜,https://live.metshop.top/yy/1353426319
+新白娘子传奇,https://live.metshop.top/yy/1354490667
+大时代,https://live.metshop.top/yy/1354930891
+法证先锋,https://live.metshop.top/yy/1354930965
+飞虎之潜行极战,https://live.metshop.top/yy/1354932420
+放羊的星星,https://live.metshop.top/yy/1355260662
+天道,https://live.metshop.top/yy/1382735574
+新白娘子传奇-修复版,https://live.metshop.top/yy/1354930969
+钟馗传说,https://live.metshop.top/yy/1382736839
+红楼梦,https://live.metshop.top/yy/1382745084
+三国演义,https://live.metshop.top/yy/1354936241
+少年包青天,https://live.metshop.top/yy/38498680
+宰相刘罗锅,https://live.metshop.top/yy/1353892468
+雍正王朝,https://live.metshop.top/yy/23206872
+金装四大才子,https://live.metshop.top/yy/1354926600
+公主嫁到,https://live.metshop.top/yy/1382736915
+耀舞长安,https://live.metshop.top/yy/1382741640
+上海滩,https://live.metshop.top/yy/1382745184
+平凡岁月,https://live.metshop.top/yy/1382745117
+苦乐村官,https://live.metshop.top/yy/1382736864
+金星脱口秀,https://live.metshop.top/yy/1354932407
 🐼电影频道👉全网,#genre#
 
 九品芝麻官,https://alimov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_b_B6a0bcfcdbdaac183fa7dcbcd3e11bcaf.mp4
@@ -3630,50 +3739,65 @@ BTV国际频道,http://mywlkj.ddns.net:754/tv/bjltzb.php?id=33
 兵团八师石河子教育,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
 🐼辽宁地区👉ID21,#genre#
 
-「北方广电」辽宁卫视高清,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=058
-「北方广电」辽宁都市高清,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=610
-「北方广电」辽宁北方高清,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=071
-「北方广电」辽宁生活高清,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=073
-「北方广电」辽宁体育高清,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=611
-「北方广电」辽宁影视剧高清,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=070
-「北方广电」辽宁教育青少高清,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=075
-「北方广电」辽宁经济高清,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=076
-「北方广电」辽宁公共高清,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=077
-「北方广电」辽宁公共高清,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=481
-「北方广电」辽宁经济高清,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=480
-「北方广电」北方导视高清,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=187
-「北方广电」辽宁新动漫,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=140
-「北方广电」沈阳新闻综合高清,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=059
-「北方广电」抚顺综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=275
-「北方广电」鞍山新闻综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=274
-「北方广电」大连新闻综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=273
-「北方广电」丹东新闻综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=276
-「北方广电」锦州新闻综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=277
-「北方广电」阜新综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=279
-「北方广电」辽阳新闻综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=280
-「北方广电」营口新闻综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=278
-「北方广电」盘锦新闻综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=283
-「北方广电」铁岭新闻综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=281
-「北方广电」朝阳新闻综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=282
-「北方广电」本溪综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=312
-「北方广电」连山区综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=491
-「北方广电」龙港区综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=490
-「北方广电」葫芦岛新闻综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=284
+「广电」辽宁卫视高清,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=058
+「广电」辽宁都市高清,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=610
+「广电」辽宁北方高清,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=071
+「广电」辽宁生活高清,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=073
+「广电」辽宁体育高清,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=611
+「广电」辽宁影视剧高清,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=070
+「广电」辽宁教育青少高清,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=075
+「广电」辽宁经济高清,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=076
+「广电」辽宁公共高清,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=077
+「广电」辽宁公共高清,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=481
+「广电」辽宁经济高清,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=480
+「广电」北方导视高清,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=187
+「广电」辽宁新动漫,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=140
+「广电」沈阳新闻综合高清,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=059
+「广电」抚顺综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=275
+「广电」鞍山新闻综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=274
+「广电」大连新闻综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=273
+「广电」丹东新闻综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=276
+「广电」锦州新闻综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=277
+「广电」阜新综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=279
+「广电」辽阳新闻综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=280
+「广电」营口新闻综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=278
+「广电」盘锦新闻综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=283
+「广电」铁岭新闻综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=281
+「广电」朝阳新闻综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=282
+「广电」本溪综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=312
+「广电」连山区综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=491
+「广电」龙港区综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=490
+「广电」葫芦岛新闻综合,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=284
 
-「辽宁联通」辽宁卫视,http://fxgm.fxjf.work:19901/tsfile/live/0121_1.m3u8
-「辽宁联通」辽宁都市,http://fxgm.fxjf.work:19901/tsfile/live/1000_1.m3u8
-「辽宁联通」辽宁影视,http://fxgm.fxjf.work:19901/tsfile/live/1001_1.m3u8
-「辽宁联通」辽宁体育,http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
-「辽宁联通」辽宁生活,http://fxgm.fxjf.work:19901/tsfile/live/1004_1.m3u8
-「辽宁联通」辽宁教育,http://fxgm.fxjf.work:19901/tsfile/live/1005_1.m3u8
-「辽宁联通」辽宁北方,http://fxgm.fxjf.work:19901/tsfile/live/1006_1.m3u8
-「辽宁联通」辽宁公共,http://fxgm.fxjf.work:19901/tsfile/live/1007_1.m3u8
-「辽宁联通」辽宁经济,http://fxgm.fxjf.work:19901/tsfile/live/1008_1.m3u8
-「辽宁联通」辽宁移动,http://fxgm.fxjf.work:19901/tsfile/live/1009_1.m3u8
+「电信」辽宁卫视,http://59.44.192.22:65000/hls/2/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+「电信」锦州新闻综合,http://59.44.192.22:65000/hls/3/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+「电信」辽宁都市,http://59.44.192.22:65000/hls/21/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+「电信」辽宁影视剧,http://59.44.192.22:65000/hls/22/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+「电信」辽宁北方,http://59.44.192.22:65000/hls/23/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+「电信」辽宁体育,http://59.44.192.22:65000/hls/24/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+「电信」辽宁生活,http://59.44.192.22:65000/hls/25/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+「电信」辽宁公共,http://59.44.192.22:65000/hls/26/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+「电信」新动漫,http://59.44.192.22:65000/hls/27/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+「电信」辽宁经济,http://59.44.192.22:65000/hls/87/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+「电信」辽宁教育,http://59.44.192.22:65000/hls/88/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+「电信」文化信息共享,http://59.44.192.22:65000/hls/89/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+「电信」北方导视,http://59.44.192.22:65000/hls/100/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+「电信」足球,http://59.44.192.22:65000/hls/101/index.m3u8?key=tvbox6_com&playlive=1&authid=0
 
-「北方广电」辽宁卫视,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R621C86FCU319FA04BK783FB5EBIFA29A0DEP2BF4M340CAC5V0Z339C9W16D7E5AFCA1ADFD1&playtoken=ABCDEFGH&programid=4200000058
+「联通」辽宁卫视,http://fxgm.fxjf.work:19901/tsfile/live/0121_1.m3u8
+「联通」辽宁都市,http://fxgm.fxjf.work:19901/tsfile/live/1000_1.m3u8
+「联通」辽宁影视,http://fxgm.fxjf.work:19901/tsfile/live/1001_1.m3u8
+「联通」辽宁体育,http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
+「联通」辽宁生活,http://fxgm.fxjf.work:19901/tsfile/live/1004_1.m3u8
+「联通」辽宁教育,http://fxgm.fxjf.work:19901/tsfile/live/1005_1.m3u8
+「联通」辽宁北方,http://fxgm.fxjf.work:19901/tsfile/live/1006_1.m3u8
+「联通」辽宁公共,http://fxgm.fxjf.work:19901/tsfile/live/1007_1.m3u8
+「联通」辽宁经济,http://fxgm.fxjf.work:19901/tsfile/live/1008_1.m3u8
+「联通」辽宁移动,http://fxgm.fxjf.work:19901/tsfile/live/1009_1.m3u8
 
-「北方广电」大连新闻,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000273
+「广电」辽宁卫视,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R621C86FCU319FA04BK783FB5EBIFA29A0DEP2BF4M340CAC5V0Z339C9W16D7E5AFCA1ADFD1&playtoken=ABCDEFGH&programid=4200000058
+
+「广电」大连新闻,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000273
 「官方」大连新闻,http://live.cooltv.top/tv/cutv.php?id=dlxwzh
 「官方」大连新闻,http://live.cooltv.top/tv/tide.php?id=dlzh
 🐼吉林地区👉ID22,#genre#
@@ -4070,13 +4194,15 @@ cctv164k,http://119.54.8.178:9999/hls/29/index.m3u8
 浙江|舟山嵊泗综合,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 浙江|诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 🐼安徽地区👉ID34,#genre#
-安徽卫视,http://mywlkj.ddns.net:754/dl/dl668/21.php?id=21001
-安徽经济生活频道,http://mywlkj.ddns.net:754/dl/dl668/21.php?id=21002
-安徽影视频道,http://mywlkj.ddns.net:754/dl/dl668/21.php?id=21003
-安徽综艺体育频道,http://mywlkj.ddns.net:754/dl/dl668/21.php?id=21004
-安徽农业科教频道,http://mywlkj.ddns.net:754/dl/dl668/21.php?id=21005
-安徽公共频道,http://mywlkj.ddns.net:754/dl/dl668/21.php?id=21006
-安徽国际频道,http://mywlkj.ddns.net:754/dl/dl668/21.php?id=21008
+
+安徽卫视,http://mywlkj.ddns.net:754/tv/ahtv.php?id=1
+安徽经济生活,http://mywlkj.ddns.net:754/tv/ahtv.php?id=2
+安徽公共,http://mywlkj.ddns.net:754/tv/ahtv.php?id=3
+安徽农业科教,http://mywlkj.ddns.net:754/tv/ahtv.php?id=4
+安徽影视,http://mywlkj.ddns.net:754/tv/ahtv.php?id=5
+安徽综艺,http://mywlkj.ddns.net:754/tv/ahtv.php?id=6
+安徽国际,http://mywlkj.ddns.net:754/tv/ahtv.php?id=7
+
 安庆新闻综合频道,http://mywlkj.ddns.net:754/dl/dl668/21.php?id=21017
 安庆经济生活频道,http://mywlkj.ddns.net:754/dl/dl668/21.php?id=21018
 宿州新闻综合频道,http://mywlkj.ddns.net:754/dl/dl668/21.php?id=21030
@@ -4218,15 +4344,15 @@ cctv164k,http://119.54.8.178:9999/hls/29/index.m3u8
 宁都县电视台,http://mywlkj.ddns.net:754/tv/dl/dl668/23.php?id=109
 🐼山东地区👉ID37,#genre#
 
-山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
-山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
-山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
-山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
-山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
-山东新闻,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
-山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
-山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
-山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
+山东卫视,http://mywlkj.ddns.net:754/tv/iqilu.php?id=1
+山东齐鲁,http://mywlkj.ddns.net:754/tv/iqilu.php?id=2
+山东文旅,http://mywlkj.ddns.net:754/tv/iqilu.php?id=3
+山东综艺,http://mywlkj.ddns.net:754/tv/iqilu.php?id=4
+山东生活,http://mywlkj.ddns.net:754/tv/iqilu.php?id=5
+山东新闻,http://mywlkj.ddns.net:754/tv/iqilu.php?id=6
+山东农科,http://mywlkj.ddns.net:754/tv/iqilu.php?id=7
+山东体育,http://mywlkj.ddns.net:754/tv/iqilu.php?id=8
+山东少儿,http://mywlkj.ddns.net:754/tv/iqilu.php?id=9
 
 「移动」山东卫视,http://112.6.117.141:9901/tsfile/live/0131_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 「移动」山东齐鲁,http://112.6.117.141:9901/tsfile/live/1058_1.m3u8?key=tvbox6_com&playlive=1&authid=0
@@ -4411,26 +4537,14 @@ cctv164k,http://119.54.8.178:9999/hls/29/index.m3u8
 河南|新蔡,http://live.dxhmt.cn:9081/tv/11729-1.m3u8
 🐼湖北地区👉ID42,#genre#
 
-湖北卫视「IPV6」,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN911989BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTjwoxLREP8RbFWdRUM4faswoDIwMxbrlyyVy9x6ZDKnEdPk51m%2FYpbAXpN4hljdv%2Fuo7x98HZteEPqTZvSaqAE
-湖北综合「IPV6」,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
-湖北公共·新闻「IPV6」,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
-湖北经视「IPV6」,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLVCQ3pDe4nBySab%2B3xPL123aTSCRugzF2ABe36IIJw2evZbYdWUo0ffUw53bflDgU
-湖北垄上「IPV6」,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNL%2Be1h4FfA5QqwJ7IPOz3p2qIS7djSxm17Htd%2FckZkm%2FVqsKHEJFJt26ju9iibzMEo
-湖北生活「IPV6」,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKJPodw5BcDirSOw7egztI5bUvJjqPzSNAhrA37GrbRBIAjGQpzP0QmgsmuHnQyd2c
-湖北影视「IPV6」,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
-湖北教育「IPV6」,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
-
-湖北综合HD,http://58.19.182.187:9901/tsfile/live/1014_1.m3u8?key=tvbox6_com&playlive=1&authid=0
-湖北经视HD,http://58.19.182.187:9901/tsfile/live/1016_1.m3u8?key=tvbox6_com&playlive=1&authid=0
-湖北生活HD,http://58.19.182.187:9901/tsfile/live/1017_1.m3u8?key=tvbox6_com&playlive=1&authid=0
-湖北公共HD,http://58.19.182.187:9901/tsfile/live/1018_1.m3u8?key=tvbox6_com&playlive=1&authid=0
-襄阳综合,http://58.19.182.187:9901/tsfile/live/1019_1.m3u8?key=tvbox6_com&playlive=1&authid=0
-襄阳经济,http://58.19.182.187:9901/tsfile/live/1020_1.m3u8?key=tvbox6_com&playlive=1&authid=0
-中国教育,http://58.19.182.187:9901/tsfile/live/1002_1.m3u8?key=tvbox6_com&playlive=1&authid=0
-襄阳公共高清,http://58.19.182.187:9901/tsfile/live/1003_1.m3u8?key=tvbox6_com&playlive=1&authid=0
-孝昌,http://58.19.182.187:9901/tsfile/live/1001_1.m3u8?key=tvbox6_com&playlive=1&authid=0
-湖北教育,http://58.19.182.187:9901/tsfile/live/1005_1.m3u8?key=tvbox6_com&playlive=1&authid=0
-
+湖北卫视,http://mywlkj.ddns.net:754/tv/cjyun.php?id=1
+湖北经视,http://mywlkj.ddns.net:754/tv/cjyun.php?id=2
+湖北综合,http://mywlkj.ddns.net:754/tv/cjyun.php?id=3
+湖北公共新闻,http://mywlkj.ddns.net:754/tv/cjyun.php?id=4
+湖北影视,http://mywlkj.ddns.net:754/tv/cjyun.php?id=5
+湖北生活,http://mywlkj.ddns.net:754/tv/cjyun.php?id=6
+湖北教育,http://mywlkj.ddns.net:754/tv/cjyun.php?id=7
+湖北垄上,http://mywlkj.ddns.net:754/tv/cjyun.php?id=8
 
 武汉新闻综合频道,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26001
 武汉电视剧频道,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26002
@@ -4439,38 +4553,49 @@ cctv164k,http://119.54.8.178:9999/hls/29/index.m3u8
 武汉文体频道,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26005
 武汉外语频道,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26006
 武汉少儿频道,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26007
-黄冈新闻,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26008
-黄冈公共,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26009
-红安综合,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26010
-黄石新闻综合,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26011
-咸宁综合,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26012
-咸宁经济生活,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26013
-赤壁一套,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26014
-嘉鱼新闻综合,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26015
-通山综合,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26016
-孝感新闻综合,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26017
-孝感生活,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26018
-孝昌新闻党建,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26019
-大悟综合,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26020
-应城综合,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26021
-荆州新闻,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26022
-荆州垄上,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26023
-荆州公共,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26024
-江陵综合,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26025
-洪湖综合,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26026
-钟祥综合,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26027
-宜昌综合,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26028
-宜昌旅游生活,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26029
-宜都综合,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26030
-长阳综合,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26031
-远安电视台,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26032
-当阳电视台,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26033
-秭归综合,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26034
-五峰电视台,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26035
-枝江综合,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26036
-来凤综合,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26037
-鄂州新闻综合,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26038
-鄂州公共,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26039
+
+黄冈新闻,http://mywlkj.ddns.net:754/tv/cjyun.php?id=9
+黄冈公共,http://mywlkj.ddns.net:754/tv/cjyun.php?id=10
+红安综合,http://mywlkj.ddns.net:754/tv/cjyun.php?id=11
+武穴综合,http://mywlkj.ddns.net:754/tv/cjyun.php?id=12
+蕲春综合,http://mywlkj.ddns.net:754/tv/cjyun.php?id=13
+罗田综合,http://mywlkj.ddns.net:754/tv/cjyun.php?id=14
+黄石新闻综合,http://mywlkj.ddns.net:754/tv/cjyun.php?id=15
+咸宁综合,http://mywlkj.ddns.net:754/tv/cjyun.php?id=16
+咸宁经济生活,http://mywlkj.ddns.net:754/tv/cjyun.php?id=17
+赤壁一套,http://mywlkj.ddns.net:754/tv/cjyun.php?id=18
+嘉鱼新闻综合,http://mywlkj.ddns.net:754/tv/cjyun.php?id=19
+通山综合,http://mywlkj.ddns.net:754/tv/cjyun.php?id=20
+孝感新闻综合,http://mywlkj.ddns.net:754/tv/cjyun.php?id=21
+孝感生活,http://mywlkj.ddns.net:754/tv/cjyun.php?id=22
+孝昌新闻党建,http://mywlkj.ddns.net:754/tv/cjyun.php?id=23
+大悟综合,http://mywlkj.ddns.net:754/tv/cjyun.php?id=24
+应城综合,http://mywlkj.ddns.net:754/tv/cjyun.php?id=25
+荆州新闻,http://mywlkj.ddns.net:754/tv/cjyun.php?id=26
+荆州垄上,http://mywlkj.ddns.net:754/tv/cjyun.php?id=27
+荆州公共,http://mywlkj.ddns.net:754/tv/cjyun.php?id=28
+江陵综合,http://mywlkj.ddns.net:754/tv/cjyun.php?id=29
+松滋综合,http://mywlkj.ddns.net:754/tv/cjyun.php?id=31
+洪湖综合,http://mywlkj.ddns.net:754/tv/cjyun.php?id=32
+钟祥综合,http://mywlkj.ddns.net:754/tv/cjyun.php?id=33
+襄阳综合,http://mywlkj.ddns.net:754/tv/cjyun.php?id=34
+襄阳经济生活,http://mywlkj.ddns.net:754/tv/cjyun.php?id=35
+襄阳公共,http://mywlkj.ddns.net:754/tv/cjyun.php?id=36
+谷城综合,http://mywlkj.ddns.net:754/tv/cjyun.php?id=37
+宜昌综合,http://mywlkj.ddns.net:754/tv/cjyun.php?id=38
+宜昌旅游生活,http://mywlkj.ddns.net:754/tv/cjyun.php?id=39
+宜都综合,http://mywlkj.ddns.net:754/tv/cjyun.php?id=40
+长阳综合,http://mywlkj.ddns.net:754/tv/cjyun.php?id=41
+远安电视台,http://mywlkj.ddns.net:754/tv/cjyun.php?id=42
+当阳电视台,http://mywlkj.ddns.net:754/tv/cjyun.php?id=43
+秭归综合,http://mywlkj.ddns.net:754/tv/cjyun.php?id=44
+五峰电视台,http://mywlkj.ddns.net:754/tv/cjyun.php?id=45
+枝江综合,http://mywlkj.ddns.net:754/tv/cjyun.php?id=46
+来凤综合,http://mywlkj.ddns.net:754/tv/cjyun.php?id=47
+鄂州新闻综合,http://mywlkj.ddns.net:754/tv/cjyun.php?id=48
+鄂州公共,http://mywlkj.ddns.net:754/tv/cjyun.php?id=49
+广水新闻,http://mywlkj.ddns.net:754/tv/cjyun.php?id=50
+
 随州综合,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26040
 随州农村,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26041
 恩施新闻综合,http://mywlkj.ddns.net:754/tv/dl/dl668/26.php?id=26042
@@ -4491,6 +4616,26 @@ cctv164k,http://119.54.8.178:9999/hls/29/index.m3u8
 襄阳公共高清,http://58.19.182.187:9901/tsfile/live/1003_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 孝昌,http://58.19.182.187:9901/tsfile/live/1001_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 湖北教育,http://58.19.182.187:9901/tsfile/live/1005_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+
+湖北综合HD,http://58.19.182.187:9901/tsfile/live/1014_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+湖北经视HD,http://58.19.182.187:9901/tsfile/live/1016_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+湖北生活HD,http://58.19.182.187:9901/tsfile/live/1017_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+湖北公共HD,http://58.19.182.187:9901/tsfile/live/1018_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+襄阳综合,http://58.19.182.187:9901/tsfile/live/1019_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+襄阳经济,http://58.19.182.187:9901/tsfile/live/1020_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+中国教育,http://58.19.182.187:9901/tsfile/live/1002_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+襄阳公共高清,http://58.19.182.187:9901/tsfile/live/1003_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+孝昌,http://58.19.182.187:9901/tsfile/live/1001_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+湖北教育,http://58.19.182.187:9901/tsfile/live/1005_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+
+湖北卫视「IPV6」,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN911989BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTjwoxLREP8RbFWdRUM4faswoDIwMxbrlyyVy9x6ZDKnEdPk51m%2FYpbAXpN4hljdv%2Fuo7x98HZteEPqTZvSaqAE
+湖北综合「IPV6」,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
+湖北公共·新闻「IPV6」,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
+湖北经视「IPV6」,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLVCQ3pDe4nBySab%2B3xPL123aTSCRugzF2ABe36IIJw2evZbYdWUo0ffUw53bflDgU
+湖北垄上「IPV6」,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNL%2Be1h4FfA5QqwJ7IPOz3p2qIS7djSxm17Htd%2FckZkm%2FVqsKHEJFJt26ju9iibzMEo
+湖北生活「IPV6」,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKJPodw5BcDirSOw7egztI5bUvJjqPzSNAhrA37GrbRBIAjGQpzP0QmgsmuHnQyd2c
+湖北影视「IPV6」,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
+湖北教育「IPV6」,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
 🐼湖南地区👉ID43,#genre#
 
 「芒果TV」湖南经视,http://mywlkj.ddns.net:754/dl/dl668/mgtv.php?id=280
@@ -4643,9 +4788,12 @@ HZTV2,http://mywlkj.ddns.net:754/tv/dgdxzb.php?id=62
 广东珠江「IPV6」,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
 广东珠江「IPV6」,http://[2409:8087:7001:20:1000::96]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
 
+GRTN健康,http://mywlkj.ddns.net:754/tv/grtn.php?id=1
+GRTN文化,http://mywlkj.ddns.net:754/tv/grtn.php?id=2
+GRTN生活,http://mywlkj.ddns.net:754/tv/grtn.php?id=3
+GRTN珠江,http://mywlkj.ddns.net:754/tv/grtn.php?id=4
+GRTN荔枝,http://mywlkj.ddns.net:754/tv/grtn.php?id=5
 
-荔枝卫视,http://mywlkj.ddns.net:754/tv/28.php?id=28001
-广东文化,http://mywlkj.ddns.net:754/tv/28.php?id=28002
 深圳都市,http://mywlkj.ddns.net:754/tv/28.php?id=28003
 东莞综合,http://mywlkj.ddns.net:754/tv/28.php?id=28004
 东莞生活,http://mywlkj.ddns.net:754/tv/28.php?id=28005
@@ -5102,14 +5250,27 @@ CHC高清电影,http://183.238.248.83:9000/udp/239.21.0.119:3820
 贵州|黔西南公共,http://live2.qxndt.com/ggpd/playlist.m3u8
 🐼云南地区👉ID53,#genre#
 
-云南|云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8	
-云南|都市频道,http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8	
-云南|娱乐频道,http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8	
-云南|生活资讯,http://tvlive.ynradio.com/live/yunnanshenghuo/chunks.m3u8	
-云南|影视频道,http://tvlive.ynradio.com/live/yunnanyingshi/chunks.m3u8	
-云南|康旅频道,http://tvlive.ynradio.com/live/yunnangonggong/chunks.m3u8	
-云南|少儿频道,http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
-云南|澜湄国际,http://tvlive.ynradio.com/live/yunnanguoji/chunks.m3u8
+云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8	
+都市频道,http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8	
+娱乐频道,http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8	
+生活资讯,http://tvlive.ynradio.com/live/yunnanshenghuo/chunks.m3u8	
+影视频道,http://tvlive.ynradio.com/live/yunnanyingshi/chunks.m3u8	
+康旅频道,http://tvlive.ynradio.com/live/yunnangonggong/chunks.m3u8	
+少儿频道,http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
+澜湄国际,http://tvlive.ynradio.com/live/yunnanguoji/chunks.m3u8
+
+云南卫视,http://ynxsj.7766.org:9901/tsfile/live/0119_1.m3u8
+云南都市,http://ynxsj.7766.org:9901/tsfile/live/1000_1.m3u8
+云南生活,http://ynxsj.7766.org:9901/tsfile/live/1001_1.m3u8
+云南娱乐,,http://ynxsj.7766.org:9901/tsfile/live/1002_1.m3u8
+云南影视,http://ynxsj.7766.org:9901/tsfile/live/1003_1.m3u8
+云南康旅,http://ynxsj.7766.org:9901/tsfile/live/1004_1.m3u8
+云南少儿,http://ynxsj.7766.org:9901/tsfile/live/1006_1.m3u8
+昆明影视,http://ynxsj.7766.org:9901/tsfile/live/1016_1.m3u8
+昆明新闻,http://ynxsj.7766.org:9901/tsfile/live/1019_1.m3u8
+昆明科教,http://ynxsj.7766.org:9901/tsfile/live/1010_1.m3u8
+昆明教育,http://ynxsj.7766.org:9901/tsfile/live/1012_1.m3u8
+
 云南|QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 云南|保山三套,http://liveynbsdst.chinamcache.com/live/zb03.m3u8?auth_key=1645240698-0-0-
 云南|峨山电视,http://live.ynurl.com/video/s10034-ESTV/index.m3u8
